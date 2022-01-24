@@ -32,5 +32,3 @@ You can google around to get the formula for sum of squares of integers for 1 to
 2.Get sum of even numbers for a given range - for 5 to 10, it should 24.
 3.Create a collection using [1, 6, 8, 3, 7, 2, 9] and get sum of even numbers. Answer should be 16.
 4.Using the same collection get sum of numbers divisible by 3. Answer should be 18."""
-
-# Solutions given in exercises package.

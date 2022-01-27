@@ -90,3 +90,4 @@ for i in salary:
         print("Salary is Not Available")
     elif i <= 0:
         print(f"Salary {i} is invalid")
+
